@@ -15,7 +15,9 @@ A React application that displays Rick and Morty characters using the Rick and M
 - Origin
 
 🌐 Language switcher (English/German)
+
 💅 Styled with Tailwind CSS
+
 ⚡ Graceful loading and error states
 ## Technologies Used
 - React
