@@ -28,8 +28,13 @@ A React application that displays Rick and Morty characters using the Rick and M
 - Node.js (v16 or higher)
 - npm or yarn
 ### Installation
-Clone the repository
-1. git clone https://github.com/your-username/rick-morty-registry.git
-2. cd rick-morty-registry
-3. npm install
-4. npm run dev 
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+2. Install Dependencies
+   ```bash
+   npm install
+3. Run the project
+   ```bash
+   npm run dev
