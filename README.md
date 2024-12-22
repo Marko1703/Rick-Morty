@@ -7,10 +7,10 @@ A React application that displays Rick and Morty characters using the Rick and M
 - Species
 - Gender
 - Origin
-###🔍 Filter characters by:
+### 🔍 Filter characters by:
 - Status
 - Species
-###📊 Sort characters by:
+### 📊 Sort characters by:
 - Name
 - Origin
 
