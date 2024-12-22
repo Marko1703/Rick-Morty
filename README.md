@@ -1,7 +1,7 @@
 # Rick and Morty Character Registry
 A React application that displays Rick and Morty characters using the Rick and Morty GraphQL API. Built with Apollo Client, TypeScript, and modern web technologies.
 ## Features
-###📋 Display character information including:
+### 📋 Display character information including:
 - Name
 - Status
 - Species
