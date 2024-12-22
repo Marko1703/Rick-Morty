@@ -33,7 +33,7 @@ A React application that displays Rick and Morty characters using the Rick and M
 ### Installation
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Marko1703/Rick-Morty.git
    cd your-repo-name
 2. Install Dependencies
    ```bash
