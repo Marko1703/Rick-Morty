@@ -24,7 +24,7 @@ A React application that displays Rick and Morty characters using the Rick and M
 - TypeScript
 - Apollo Client
 - GraphQL
-- CSS Modules
+- Tailwind CSS
 - i18next (for internationalization)
 ## Getting Started
 ### Prerequisites
